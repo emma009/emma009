@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/iyen-emmanuel/](https://www.linkedin.com/in/iyen-emmanuel/)
 
-- ⚡ Fun fact **I think i got good sense of humor,**
+- ⚡ Fun fact **Coding is fun when there are no bugs **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
