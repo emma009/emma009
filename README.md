@@ -104,7 +104,7 @@
 
 My stats:
 
-![Innovin AC's Streak](https://github-readme-streak-stats.herokuapp.com/?user=InnovinAC&theme=synthwave&hide_border=true&card_width=900px)
+![Emmannuels Streak](https://github-readme-streak-stats.herokuapp.com/?user=InnovinAC&theme=synthwave&hide_border=true&card_width=900px)
 
 ###
 - 💞️ I’m looking to collaborate on any project.
